@@ -1,7 +1,7 @@
 # "Community Grant DAO" (Solidity)
 
 ## Description
-A decentralized grant funding system for Black entrepreneurs, artists, and developers. The smart contract allows members to propose projects and vote on funding allocations using a DAO governance model.
+A decentralized grant funding system for underrepresented entrepreneurs, artists, and developers. The smart contract allows members to propose projects and vote on funding allocations using a DAO governance model.
 
 ## Key Features
 - Token-Based Voting: Users receive governance tokens to vote on proposals.
@@ -14,6 +14,6 @@ This project showcases Solidity skills in governance mechanisms and community-dr
 
 ## Tech Stack
 - Solidity (smart contract logic)
-- Hardhat (development and testing)
+- Hardhat & Foundry (development and testing)
 - OpenZeppelin (ERC-20 and governance modules)
 - Frontend (React + Web3.js for interaction)
